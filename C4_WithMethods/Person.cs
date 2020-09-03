@@ -31,7 +31,7 @@ namespace C4_WithMethods
     {
         try
         {
-            Age = Convert.ToInt32(Console.ReadLine());
+            int Age = Convert.ToInt32(Console.ReadLine());
         }
         catch
         {
@@ -40,7 +40,7 @@ namespace C4_WithMethods
 
             try
             {
-                Age = Convert.ToInt32(Console.ReadLine());
+                int Age = Convert.ToInt32(Console.ReadLine());
             }
             catch
             {

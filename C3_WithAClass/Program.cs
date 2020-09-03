@@ -8,7 +8,7 @@ namespace C3_WithAClass
         {
             var person = new Person();
 
-            Console.Write("Welcome Dude! What's your name? ");
+            Console.Write("Welcome Dude! What's your name? "); 
             person.Name = Console.ReadLine();
 
             Console.Write($"{person.Name} sweeet :) How old are you man? ");

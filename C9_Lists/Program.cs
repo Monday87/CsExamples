@@ -35,14 +35,14 @@ namespace C9_Lists
                 Console.Write("Sweet. How many siblings do you have?");
                 int _numberOfSiblings = Convert.ToInt32(Console.ReadLine());
 
-                var siblings = new List<string>();
+                 var siblings = new List<string>();
 
                 if (_numberOfSiblings == 1)
                 {
                     Console.Write("What is your siblings name? ");
                     siblings.Add(Console.ReadLine());
 
-                    Console.WriteLine($"Okay, so  your siblings name is {siblings[0]}");
+                    Console.WriteLine($"Okay, so your siblings name is {siblings[0]}");
 
                 }
                 else
@@ -76,6 +76,7 @@ namespace C9_Lists
 
 
             }
+          
         }
     }
 }

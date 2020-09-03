@@ -6,8 +6,22 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How many siblings do you have? ");
-            var _numberOfSiblings = Convert.ToInt32(Console.ReadLine());
+            int _numberOfSiblings = 0;
+            try
+            {
+                Console.WriteLine("How many siblings do you have? ");
+                _numberOfSiblings = Convert.ToInt32(Console.ReadLine());
+            }
+            catch (Exception)
+            {
+
+
+
+            
+            }
+            
+
+
 
             if (_numberOfSiblings < 1)
                 Console.WriteLine("Okay. That's cool man.");

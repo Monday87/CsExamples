@@ -3,23 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1_WriteLine", "C1_WriteLine\C1_WriteLine.csproj", "{3A9E32DF-ECF6-4870-8F9C-7E0CCCA6A686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C1_WriteLine", "C1_WriteLine\C1_WriteLine.csproj", "{3A9E32DF-ECF6-4870-8F9C-7E0CCCA6A686}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{004A7CCF-16E2-4382-9173-08C49A522CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C2_ReadLine", "C2_ReadLine\C2_ReadLine.csproj", "{004A7CCF-16E2-4382-9173-08C49A522CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C3_WithAClass", "C3_WithAClass\C3_WithAClass.csproj", "{8E6958CF-86E3-45DE-A09F-86C71A9E7E64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C3_WithAClass", "C3_WithAClass\C3_WithAClass.csproj", "{8E6958CF-86E3-45DE-A09F-86C71A9E7E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4_WithMethods", "C4_WithMethods\C4_WithMethods.csproj", "{E65EBE73-D7B6-4D91-8816-CBA193313268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C4_WithMethods", "C4_WithMethods\C4_WithMethods.csproj", "{E65EBE73-D7B6-4D91-8816-CBA193313268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{54725484-6FFB-44BF-8382-3132F3E3B67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C5_WithAgeCalculation", "C5_WithAgeCalculation\C5_WithAgeCalculation.csproj", "{54725484-6FFB-44BF-8382-3132F3E3B67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{098FE401-2BF7-4FDB-B7F1-3630EFB8F34F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C6_GettersAndSetters", "C6_GettersAndSetters\C6_GettersAndSetters.csproj", "{098FE401-2BF7-4FDB-B7F1-3630EFB8F34F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{91E927E2-43C5-4778-A432-C2C2E0D2F303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C7_GettersAndSettersV2", "C7_GettersAndSettersV2\C7_GettersAndSettersV2.csproj", "{91E927E2-43C5-4778-A432-C2C2E0D2F303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C8_Arrays", "Arrays\C8_Arrays.csproj", "{ECEC6325-BA80-4007-AE17-DCAEFB0CFB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C8_Arrays", "Arrays\C8_Arrays.csproj", "{ECEC6325-BA80-4007-AE17-DCAEFB0CFB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C9_Lists", "C9_Lists\C9_Lists.csproj", "{887318A8-8826-4E12-97F7-E0C99E356D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C9_Lists", "C9_Lists\C9_Lists.csproj", "{887318A8-8826-4E12-97F7-E0C99E356D44}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C10_LearningThis", "C10_LearningThis\C10_LearningThis.csproj", "{A20CA35B-8E9B-415B-9AE0-9054925FEF8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C11_udemy", "C11_udemy\C11_udemy.csproj", "{33D00229-CA45-4F68-B602-D5C3F17761BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C10_Struct", "C10_Struct\C10_Struct.csproj", "{037F789A-E812-475A-BFA8-87E8517AA26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C11_Enum", "C11_Enum\C11_Enum.csproj", "{444EDB87-7EEE-4253-881D-C8BFA692C533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C12_Interfaces_1", "C12_Interfaces_1\C12_Interfaces_1.csproj", "{B5CBFCDC-7924-4DC8-B75A-EA6F95809735}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{887318A8-8826-4E12-97F7-E0C99E356D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{887318A8-8826-4E12-97F7-E0C99E356D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{887318A8-8826-4E12-97F7-E0C99E356D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20CA35B-8E9B-415B-9AE0-9054925FEF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20CA35B-8E9B-415B-9AE0-9054925FEF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20CA35B-8E9B-415B-9AE0-9054925FEF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20CA35B-8E9B-415B-9AE0-9054925FEF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33D00229-CA45-4F68-B602-D5C3F17761BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33D00229-CA45-4F68-B602-D5C3F17761BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33D00229-CA45-4F68-B602-D5C3F17761BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33D00229-CA45-4F68-B602-D5C3F17761BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037F789A-E812-475A-BFA8-87E8517AA26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037F789A-E812-475A-BFA8-87E8517AA26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037F789A-E812-475A-BFA8-87E8517AA26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037F789A-E812-475A-BFA8-87E8517AA26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444EDB87-7EEE-4253-881D-C8BFA692C533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444EDB87-7EEE-4253-881D-C8BFA692C533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444EDB87-7EEE-4253-881D-C8BFA692C533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444EDB87-7EEE-4253-881D-C8BFA692C533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CBFCDC-7924-4DC8-B75A-EA6F95809735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CBFCDC-7924-4DC8-B75A-EA6F95809735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CBFCDC-7924-4DC8-B75A-EA6F95809735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CBFCDC-7924-4DC8-B75A-EA6F95809735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
